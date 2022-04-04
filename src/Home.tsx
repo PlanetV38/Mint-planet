@@ -549,7 +549,7 @@ const Home = (props: HomeProps) => {
         <main>
             <MainContainer>
                 <WalletContainer>
-                <Logo><a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer"><img alt=""
+                <Logo><a href="https://www.mintplanet-38.art/" target="_blank" rel="noopener noreferrer"><img alt=""
                                                                                                           src="logo.png"/></a></Logo>
                     <Menu>
                         <li><a href="https://twitter.com/38_planet" target="_blank" rel="noopener noreferrer">Twitter</a>
@@ -659,7 +659,7 @@ const Home = (props: HomeProps) => {
                     <DesContainer>
                         <Des elevation={2}>
                         <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>Description of the collection</GoldTitle></LogoAligner>
-                            <p>Join the early sale of avatars from planet-38. Getting your own unique pandora!<p></p>
+                            <p>Join the early sale of avatars from planet-38. Getting your own unique Panvori!<p></p>
                              After receiving your avatar, you will be promoted to the rank of a space veteran in our community.<p></p>
                              The price for an early sale is lower than for a public one</p>
                         </Des>
